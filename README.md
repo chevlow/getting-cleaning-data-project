@@ -2,8 +2,8 @@
 
 This is the repo for the submission of the course project for Coursera's Getting and Cleaning Data course.  It includes:
 <ul>
+<li><code>codebook.MD</code> - information on variables, data and transformations</li>
 <li><code>run_analysis.R</code> - scripts needed to create desired tidy data set</li>
-<li><code>codebook.MD</code> - information on varialbes, data and transformations</li>
 <li><code>TidyData.txt</code> - resulting data set from <code>run_analysis.R</code></li>
 </ul>
 
