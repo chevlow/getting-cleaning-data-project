@@ -1,3 +1,5 @@
+#Codebook for Getting and Cleaning Data Course Project
+
 Information about the variables, data and transformations used in the Getting and Cleaning Data course project.
 
 Source data can be found <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" target="blank">here</a>.
